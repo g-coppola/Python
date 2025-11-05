@@ -1,0 +1,28 @@
+{
+    "Giocatore": "prova",
+    "Punti": 0
+},
+{
+    "Giocatore": "prova",
+    "Punti": 605
+},
+{
+    "Giocatore": "ciao",
+    "Punti": 298
+},
+{
+    "Giocatore": "ciao",
+    "Punti": 298
+},
+{
+    "Giocatore": "ciao",
+    "Punti": 298
+},
+{
+    "Giocatore": "ciao",
+    "Punti": 298
+},
+{
+    "Giocatore": "ciao",
+    "Punti": 298
+},
